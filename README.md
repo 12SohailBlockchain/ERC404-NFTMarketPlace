@@ -1,7 +1,7 @@
 # BreadcrumbsERC404-NFTMarketPlace
 
 #Set Up the Hardhat Project
-#Prerequisites
+#Prerequisites.
 First, you need a few installations. So, make sure you have the following on your machine:
 A code editor (we are using Visual Studio.)Install Node.js (Please make sure to install v18 for this project. We are using v18.17.1. It is important to use the appropriate version to avoid facing errors.)Install GitHubInstall the MetaMask Chrome extension.
 
