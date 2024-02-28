@@ -18,9 +18,17 @@ git clone https://github.com/12SohailBlockchain/ERC404-NFTMarketPlace
 Now, run the following commands one by one to move to the repository folder and install all dependencies:
 
 
+
+
 cd erc404-nftmarketplace-boilerplate
+
+
 npm install dotenv --save --force
+
+
 npm install --save-dev hardhat --force
+
+
 npm install --force
 
 
